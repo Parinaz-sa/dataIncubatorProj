@@ -1,4 +1,4 @@
-taset Description:
+dataset Description:
 The data set used in this project is taken from 301 unique papers that was submitted through Simon Fraser University’s submission system. Each line in DocumentWord.txt consist of 3 main parts (codes in integer format) in the following format:
 di,ki,wi1,wi2,…,wik
 Where di corresponds to id of the i-th submitted paper, ki is the number of unique words that were used in this paper, and wi1,wi2,…,wik are the words. Also all the stop words are removed from the data.
